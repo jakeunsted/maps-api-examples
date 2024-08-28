@@ -25,6 +25,11 @@ const items = ref([
     label: 'Open Layer',
     icon: 'pi pi-map',
     to: '/openlayer'
+  },
+  {
+    label: 'Google Maps',
+    icon: 'pi pi-map',
+    to: '/googlemaps'
   }
 ])
 </script>
