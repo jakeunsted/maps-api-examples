@@ -9,7 +9,7 @@ const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY
 
 const center = '50.861658,-0.083969' // Center of the map (latitude, longitude)
 const zoom = 10 // Zoom level
-const size = '600x400' // Size of the map image (width x height)
+const size = '600x300&scale=2' // Size of the map image (width x height)
 const altText = 'Static map with multiple markers'
 
 const markers = [
