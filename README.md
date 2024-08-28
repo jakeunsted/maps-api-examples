@@ -1,6 +1,6 @@
-# .
+# Maps API examples
 
-This template should help get you started developing with Vue 3 in Vite.
+This is an example repo using different map providers and giving examples of how they can be used
 
 ## Recommended IDE Setup
 
