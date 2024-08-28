@@ -1,5 +1,5 @@
 <template>
-  <div class="w-9/12 max-w-6xl mx-auto">
+  <div class="w-9/12 max-w-6xl">
     <NavBar />
     <router-view />
   </div>
