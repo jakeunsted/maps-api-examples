@@ -30,6 +30,11 @@ const items = ref([
     label: 'Google Maps',
     icon: 'pi pi-map',
     to: '/googlemaps'
+  },
+  {
+    label: 'Open Street Maps',
+    icon: 'pi pi-map',
+    to: '/osm'
   }
 ])
 </script>
